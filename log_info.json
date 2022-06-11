@@ -1,0 +1,14 @@
+{
+    "Manar": [
+        {
+            "password": "b96eb888b68dba9368dc81a02b77175a",
+            "salt": 10
+        }
+    ],
+    "Dana": [
+        {
+            "password": "5a799edd9d8c5518875eb6f330a360a2",
+            "salt": 64
+        }
+    ]
+}
